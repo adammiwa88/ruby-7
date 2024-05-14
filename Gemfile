@@ -28,6 +28,8 @@ gem "jbuilder"
 
 gem "sassc-rails",     "2.1.2"
 
+gem "bcrypt",          "3.1.18"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
